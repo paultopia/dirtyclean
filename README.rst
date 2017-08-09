@@ -14,6 +14,8 @@ Right now, the only options given are to convert combined letters (letters with 
 
 If you want to get rid of umlats and such, you can try ``clean("somestring", simplify_letters = True)`` However, I don't guarantee that letter simplification will work.  If it breaks, please file an issue, or, better yet, a PR.
 
+This thing is `on pip` <https://pypi.python.org/pypi/dirtyclean>_, sooner or later ``pip install dirtyclean`` should get it.
+
 More Details
 ============
 
