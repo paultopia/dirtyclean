@@ -16,6 +16,8 @@ If you want to get rid of umlats and such, you can try ``clean("somestring", sim
 
 This thing is `on pip <https://pypi.python.org/pypi/dirtyclean>`_, sooner or later ``pip install dirtyclean`` should get it.
 
+Python 3 only.  (You think I want to mess around with unicode in Python 2? I do not.)
+
 More Details
 ============
 
