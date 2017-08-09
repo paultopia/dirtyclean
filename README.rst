@@ -2,7 +2,7 @@ Micro-library to quickly clean up text for textmining purposes.  Mostly devoted 
 
 This is meant as a very quick and dirty cleanup process (hence the name). It throws out numbers, currency symbols, math, punctuation, superscripts and subscripts etc. The objective is primarily to eliminate an annoying step in bag-of-words style textmining.
 
-Usage is really simple:
+Usage is really simple::
 
     from dirtyclean import clean
     clean("some string full of punctuation and stuff")
